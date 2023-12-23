@@ -1,0 +1,12 @@
+ optimizing the landing page for performance, including techniques for reducing load times and improving overall user experience
+
+ Some key points:
+
+ 1.Optimize Images
+ 2.Minify HTML, CSS, and JavaScript files to remove unnecessary characters, comments, and whitespace.
+ 3.Responsive Design:
+      Mobile-Friendly: Ensure that your custom code is responsive and works well on various devices and screen sizes.
+      Flexible Layouts: Design flexible layouts that adapt to different screen orientations and resolutions.
+
+
+Note: The images take longer to appear due to the slow speed of the external image hosting website server. 
